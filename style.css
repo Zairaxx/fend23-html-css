@@ -1,0 +1,21 @@
+h1 {
+  font-size: 32px;
+  color: ghostwhite;
+  background: firebrick;
+}
+
+h2 {
+  font-size: 24px;
+  color: darkolivegreen;
+  background: lightgreen;
+  border: 5px solid black;
+}
+
+body {
+  background: peachpuff;
+}
+
+.blue-text {
+  color: blue;
+  background: lightblue;
+}
